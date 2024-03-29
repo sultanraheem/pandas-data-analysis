@@ -4,17 +4,17 @@ NOTE: This assignment has been done through group work with myself, Robert Molen
 
 ## contents
 
-The Jupyter Notebook file can be run through Jupyter Notebook or VSCode, I have used both on separate occasions through the course of completing the assignment. 
+The Jupyter Notebook file can be run through Jupyter Notebook or VSCode, I have used both on separate occasions throughout completing the assignment. 
 
 The report is in PDF format and included within the PyCitySchools folder.
 
-## Limitations mentioned in written report
+## Limitations mentioned in the written report
 
-These have been frowarded from the written component for clarity.
+These have been forwarded from the written component for clarity.
 
 One thing to note is that I have all calculations except the total students, the total students are present in Figure 7 district summary, but not the school summary. It is just a limitation of my submission. 
 
-
+Additional: The scores by school size only output small schools, medium and large schools are not generated.
 
 ## Complete work cited
 
