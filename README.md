@@ -7,6 +7,7 @@ NOTE: This assignment has been done through group work with myself, Robert Molen
 The Jupyter Notebook file within PyCitySchools can be run through Jupyter Notebook or VSCode, I have used both on separate occasions throughout completing the assignment. 
 
 The report is in PDF format and included within the PyCitySchools folder. I have ensured it can be viewed without downloading within my repository.
+Please click more pages to view the entirety of the written report on GitHub.
 
 The resources folder contains the original CSV files with data.
 
