@@ -4,9 +4,9 @@ NOTE: This assignment has been done through group work with myself, Robert Molen
 
 ## Contents
 
-The Jupyter Notebook file within  can be run through Jupyter Notebook or VSCode, I have used both on separate occasions throughout completing the assignment. 
+The Jupyter Notebook file within PyCitySchools can be run through Jupyter Notebook or VSCode, I have used both on separate occasions throughout completing the assignment. 
 
-The report is in PDF format and included within the PyCitySchools folder.
+The report is in PDF format and included within the PyCitySchools folder. I have ensured it can be viewed without downloading within my repository.
 
 The resources folder contains the original CSV files with data.
 
@@ -16,8 +16,8 @@ These have been forwarded from the written component for clarity.
 
 One thing to note is that I have all calculations except the total students, the total students are present in Figure 7 district summary, but not the school summary. It is just a limitation of my submission. 
 
-Additional: The scores by school size only output small schools, medium and large schools are not generated. I did not understand the complete error message and even tried to use open ai to assist me.
-I have skipped the additional medium and large school steps. 
+Additional: The scores by school size only output small schools, medium and large schools are not generated. I did not understand the complete error message and even tried to use Open AI to assist me.
+I have skipped the additional medium and large school steps.
 
 ## Complete work cited
 
