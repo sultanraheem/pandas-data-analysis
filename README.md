@@ -1,4 +1,4 @@
-# pandas-challenge
+# pandas-data-analysis
 
 **NOTE:** This assignment was completed through group work with myself, Robert Molenda, Lucas Perez, and Muneeb Samad.
 
